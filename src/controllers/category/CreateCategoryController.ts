@@ -1,4 +1,4 @@
-import { CreateCategoryService } from "../services/CreateCategoryService";
+import { CreateCategoryService } from "../../services/category/CreateCategoryService";
 
 
 export class CreateCategoryController{

@@ -1,6 +1,10 @@
 # CRUD com Node.js, Express, typescript, TypeORM e PostgreSQL
 
 Desenvolvendo um sistema CRUD com novas ferramentas a serem aprendidas.
+Criado duas tabelas: Video e Categoria. Tem um relacionamento entre essas tabelas.
+Criado um sistema de CRUD para das duas tabelas.
+
+![TypeORM](TypeORM.png)
 ________________________________________________________________________
 Pacotes a serem instalados:
 - yarn add express
